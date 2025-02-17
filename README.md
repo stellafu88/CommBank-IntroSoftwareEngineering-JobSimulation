@@ -1,4 +1,4 @@
-I just completed Commonwealth Bank's Introduction to Software Engineering on Forage. In the simulation I:
+I completed Commonwealth Bank's Introduction to Software Engineering on Forage in February 2025. In the simulation I:
   1. Completed a job simulation involving web development and cybersecurity for the Commonwealth Bank Software Engineering Program.
   2. Developed proficiency in HTML and CSS, leveraging these languages to create and style a responsive web page adhering to specific branding guidelines.
   3. Acquired foundational knowledge in financial cybersecurity principles, synthesizing complex information into clear, actionable advice for enhancing client security.
