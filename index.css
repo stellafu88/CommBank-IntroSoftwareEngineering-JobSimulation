@@ -1,26 +1,28 @@
+/* Reset */
 * {
-  font-family: Gill Sans;
+  font-family: "Gill Sans", sans-serif;
 }
 
+/* Layout */
 body {
-  font-size: 18pt;
-  margin: 50px 100px;
-  border: 10px solid;
-  border-color: #FFCC00;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #EBEBEB;
+  margin: 50px 100px;
+  background-color: #ebebeb;
   color: #1e1e1e;
+  border: 10px solid #ffcc00;
+  font-size: 18pt;
 }
 
 .content {
   width: 80%;
   margin-bottom: 50px;
   mix-blend-mode: difference;
-  color: #FFFFFF;
+  color: #fff;
 }
 
+/* Typography */
 h1 {
   font-size: 70pt;
 }
@@ -29,6 +31,7 @@ h2 {
   font-size: 38pt;
 }
 
+/* Components */
 .intro {
   display: flex;
   flex-direction: column;
@@ -46,9 +49,9 @@ h2 {
 
 .takeover-box {
   width: 250px;
-  margin: 16px;
   flex-grow: 1;
-  border: solid;
-  border-radius: 8px;
   padding: 20px;
+  margin: 16px;
+  border: 1px solid;
+  border-radius: 8px;
 }
