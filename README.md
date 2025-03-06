@@ -1,6 +1,6 @@
 Please click on the certificate file above to view the certificate issued by Forage.
 
-The website is deployed to Vercel, and the source is in thie repository: https://github.com/stellafu88/tips-cybersecurity
+The website is deployed to Vercel, and the source code is stored in this repository: https://github.com/stellafu88/tips-cybersecurity
 
 I completed Commonwealth Bank's Introduction to Software Engineering on Forage in February 2025. In the simulation I:
   1. Completed a job simulation involving web development and cybersecurity for the Commonwealth Bank Software Engineering Program.
